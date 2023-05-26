@@ -1,0 +1,8 @@
+{
+  "name": "nodenext",
+  "type": "module",
+  "dependencies": {
+    "embla-carousel": "^8.0.0-rc03",
+    "typescript": "^5.0.4"
+  }
+}
